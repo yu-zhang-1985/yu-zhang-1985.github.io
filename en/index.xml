@@ -6,10 +6,19 @@
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 27 Nov 2019 16:31:12 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 13:39:06 +0800</lastBuildDate>
     
 	<atom:link href="http://yu-zhang-1985.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python学习1</title>
+      <link>http://yu-zhang-1985.github.io/en/post/python%E5%AD%A6%E4%B9%A01/</link>
+      <pubDate>Tue, 03 Dec 2019 13:39:06 +0800</pubDate>
+      
+      <guid>http://yu-zhang-1985.github.io/en/post/python%E5%AD%A6%E4%B9%A01/</guid>
+      <description>Python 学习 1 Coding 1 # -*- coding:utf-8 -*- 告诉python解释器，按照UTF-8编码读取源代码 Dict dict的key必须是不可变对象。 这是因为dict根据key来计算</description>
+    </item>
     
     <item>
       <title>Gallery</title>
@@ -18,15 +27,6 @@
       
       <guid>http://yu-zhang-1985.github.io/en/gallery/mygallery/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo_introduce</title>
-      <link>http://yu-zhang-1985.github.io/en/post/hugo_introduce/</link>
-      <pubDate>Wed, 27 Nov 2019 10:50:05 +0800</pubDate>
-      
-      <guid>http://yu-zhang-1985.github.io/en/post/hugo_introduce/</guid>
-      <description>Hello, Hugo!</description>
     </item>
     
   </channel>

@@ -1,34 +1,16 @@
 [
 {
-	"uri": "http://yu-zhang-1985.github.io/cn/",
-	"title": "Hugo Zzo Theme",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "http://yu-zhang-1985.github.io/cn/post/hugo_introduce/",
-	"title": "Hugo_introduce",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": "你好，世界\n"
-},
-{
-	"uri": "http://yu-zhang-1985.github.io/cn/post/",
-	"title": "Posts",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
 	"uri": "http://yu-zhang-1985.github.io/cn/categories/",
 	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://yu-zhang-1985.github.io/cn/",
+	"title": "Hugo Zzo Theme",
 	"tags": [],
 	"categories": [],
 	"series": [],
