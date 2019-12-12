@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://yu-zhang-1985.github.io/en/</loc>
-    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -19,22 +19,17 @@
   
   <url>
     <loc>http://yu-zhang-1985.github.io/en/posts/</loc>
-    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://yu-zhang-1985.github.io/en/tags/python/</loc>
-    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://yu-zhang-1985.github.io/en/posts/python%E5%AD%A6%E4%B9%A02/</loc>
-    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
   </url>
   
   <url>
     <loc>http://yu-zhang-1985.github.io/en/tags/</loc>
-    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
@@ -48,7 +43,27 @@
   </url>
   
   <url>
-    <loc>http://yu-zhang-1985.github.io/en/posts/python%E5%AD%A6%E4%B9%A01/</loc>
+    <loc>http://yu-zhang-1985.github.io/en/tags/tensorflow2.0/</loc>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yu-zhang-1985.github.io/en/posts/tensorflow2%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A01/</loc>
+    <lastmod>2019-12-12T14:28:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yu-zhang-1985.github.io/en/posts/python%E5%9F%BA%E7%A1%803/</loc>
+    <lastmod>2019-12-09T16:32:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yu-zhang-1985.github.io/en/posts/python%E5%9F%BA%E7%A1%802/</loc>
+    <lastmod>2019-12-04T14:06:43+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yu-zhang-1985.github.io/en/posts/python%E5%9F%BA%E7%A1%801/</loc>
     <lastmod>2019-12-03T13:39:06+08:00</lastmod>
   </url>
   

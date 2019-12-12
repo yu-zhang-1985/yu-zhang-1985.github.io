@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tensorflow2.0 on Hugo Zzo Theme</title>
+    <link>http://yu-zhang-1985.github.io/en/tags/tensorflow2.0/</link>
+    <description>Recent content in Tensorflow2.0 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 12 Dec 2019 14:28:20 +0800</lastBuildDate>
+    
+	<atom:link href="http://yu-zhang-1985.github.io/en/tags/tensorflow2.0/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tensorflow2深度学习1</title>
+      <link>http://yu-zhang-1985.github.io/en/posts/tensorflow2%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A01/</link>
+      <pubDate>Thu, 12 Dec 2019 14:28:20 +0800</pubDate>
+      
+      <guid>http://yu-zhang-1985.github.io/en/posts/tensorflow2%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A01/</guid>
+      <description>Tensorflow2深度学习1 创建已知分布的张量 通过tf.random.normal(shape, mean=0.0, stddev=1.0)可以创建形状为 s</description>
+    </item>
+    
+  </channel>
+</rss>
